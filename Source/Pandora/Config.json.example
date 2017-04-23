@@ -1,0 +1,13 @@
+﻿{
+    "Server": {
+        "Version": "1.0.6313.26946",
+        "PayloadVersion": "1.0.0.0"
+    },
+    "Database": {
+        "Host": "127.0.0.1",
+        "Port": 3306,
+        "Database": "pandora",
+        "Username": "root",
+        "Password": ""
+    }
+}

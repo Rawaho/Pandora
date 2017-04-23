@@ -1,0 +1,32 @@
+﻿namespace Pandora.Game.Enum
+{
+    public enum RoomType
+    {
+        You,
+        PublicChat,
+        DailyQuests,
+        Chests,
+        CompletedQuests,
+        LaneData,
+        Collection,
+        Decks,
+        TournamentDecks,
+        Opponent,
+        GameSpectators,
+        Lobby,
+        GameChat,
+        Orbs,
+        Avatars,
+        CardBacks,
+        Wells,
+        Emotes,
+        Market,
+        Disenchant,
+        Properties,
+        OwnedMarketItems,
+        CommunityEvents,
+        CommunityEventProgressions,
+        Friends,
+        FriendStatus
+    }
+}
